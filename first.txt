@@ -1,1 +1,2 @@
 Hello, i just made this file and push it into remote repositry
+Hello, this is the line for using pull function
